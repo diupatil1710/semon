@@ -1,0 +1,41 @@
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+h1{
+    margin-top: 50px;
+    text-align: center;
+}
+.box{
+    /* width: 500px;
+    height: 500px; */
+    display: flex;
+    justify-content: center;
+    
+}
+.btn{
+    width: 200px;
+    height: 200px;
+    border: 10px solid black;
+    margin: 20px;
+    border-radius: 20px;
+}
+
+.yellow{
+    background-color:  rgb(255, 149, 0);
+}
+.purple{
+    background-color: rgb(191, 0, 255);
+}
+.skyblue{
+    background-color: rgb(0, 213, 255);
+}
+.cimon{
+    background-color: rgb(255, 0, 128);
+}
+.flash{
+    background-color: rgb(247, 243, 245);
+}
+.userflash{
+    background-color: rgb(79, 255, 52);
+}
